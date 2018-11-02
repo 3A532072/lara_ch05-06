@@ -12,7 +12,6 @@
 */
 
 Route::get('/', 'HomeController@index' {
-    return view('welcome');
 });
 /*
 Route::pattern('student_no','s[0-9]{10}');
