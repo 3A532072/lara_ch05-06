@@ -11,8 +11,7 @@
 |
 */
 
-Route::get('/', 'HomeController@index' {
-});
+Route::get('/', 'HomeController@index');
 /*
 Route::pattern('student_no','s[0-9]{10}');
 
