@@ -7,6 +7,6 @@ use App\Http\Controllers\Controller;
 
 class TestController extends Controller
 {
-    public function index(){
+    public function index()
         return 'Cooler ';
 }
